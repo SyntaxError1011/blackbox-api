@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.6.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "node-ainzfb-new": "^1.6.32-stable",
+    "path": "^0.12.7"
+  }
+}
